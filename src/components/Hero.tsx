@@ -15,7 +15,7 @@ export function Hero() {
                 Building digital products with precision & purpose
               </h1>
               <p className="mt-6 text-xl text-muted-foreground leading-relaxed">
-                Hi! I'm John Doe, a web developer with a passion for creating innovative and efficient web applications. With expertise in Node.js and Power BI, I specialize in building seamless web experiences and data-driven insights that help businesses grow.
+                Hi! I'm Rushi ubhedal, a web developer with a passion for creating innovative and efficient web applications. With expertise in Node.js and Power BI, I specialize in building seamless web experiences and data-driven insights that help businesses grow.
               </p>
             </div>
             
