@@ -25,7 +25,7 @@ export function Navbar() {
     >
       <div className="container flex items-center justify-between">
         <a href="#" className="text-xl font-medium">
-          John Doe
+          Rushi U from shevgaon
         </a>
         <nav className="hidden md:flex items-center space-x-1">
           <a href="#about" className="nav-link">About</a>
