@@ -42,7 +42,7 @@ export function Hero() {
               <div className="absolute inset-4 rounded-full bg-gradient-to-r from-primary/20 to-primary/5"></div>
               <div className="glass-card rounded-3xl h-80 w-72 overflow-hidden shadow-xl animate-float">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop" 
+                  src="public\Media.jpg" 
                   alt="John Doe" 
                   className="h-full w-full object-cover"
                 />
